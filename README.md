@@ -7,7 +7,7 @@ Squad: A
 Team Lead: [Finn van Bekkum](https://github.com/Finnvb)  
 Opdracht: OBA
 
-In de [wiki](https://github.com/JustinLung/lose-your-head-team-lead/wiki) wordt beschreven wat wij als groepje hebben gedaan.
+In de [wiki](https://github.com/Finnvb/lose-your-head-team-lead/wiki) wordt beschreven wat wij als groepje hebben gedaan.
 
 ## Licentie
 
