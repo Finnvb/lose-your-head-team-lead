@@ -3,9 +3,9 @@ Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uit
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Team Lead
-Squad: C  
-Team Lead: [Justin Lung](https://github.com/JustinLung)  
-Opdracht: Vini Mini
+Squad: A  
+Team Lead: [Finn van Bekkum](https://github.com/Finnvb)  
+Opdracht: OBA
 
 In de [wiki](https://github.com/JustinLung/lose-your-head-team-lead/wiki) wordt beschreven wat wij als groepje hebben gedaan.
 
