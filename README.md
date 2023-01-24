@@ -1,11 +1,8 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Team Lead
 Squad: A  
 Team Lead: [Finn van Bekkum](https://github.com/Finnvb)  
-Opdracht: OBA
+Opdrachtgever: OBA
 
 In de [wiki](https://github.com/Finnvb/lose-your-head-team-lead/wiki) wordt beschreven wat wij als groepje hebben gedaan.
 
